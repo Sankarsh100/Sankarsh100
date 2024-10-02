@@ -7,13 +7,14 @@
 - 🌱 Currently learning **DataBricks** and **Snowflake**
 - 🎓 Graduate student pursuing a Master's degree in **Data Analytics Engineering** at George Mason University
 - 💼 I have 2.5 years of experience at **TCS**, where I worked with **Walgreens Boots Alliance Ltd.** on data analytics and business analysis
-- 🚀 Improving proficiency in **Power BI**, **NLP**, and **Google Calendar** API functionalities
-- 📊 Skilled in **Python**, **SQL**, **R**, and **Weka**, working on healthcare data analytics projects
-- 💬 Experienced in advanced analytics, **claims data analysis**, and **visual storytelling**
+
+- 🚀 Expanding Proficiency: **Python-Powered ETL**, **Data Cleaning**, and **Analysis** 📊
+- 💬 Unlock Insights with Me: **Advanced Excel**, **Python**, **SQL**, proficient in **Alteryx**, **EDA**, and storytelling through visualizations (**Tableau**, **Power BI**, and **QuickSight**)
 - 👨‍💻 Check out my projects:
   - [Scheduler Project](https://github.com/username/scheduler-project) - An NLP-powered scheduler with custom Google Calendar functionalities.
   - [Healthcare Claims Analysis](https://github.com/username/claims-analysis) - Analysis of claims data based on ELIX diagnoses.
   
+- 📫 If you have any opportunities, please feel free to reach me at **sankarshsanap@example.com**
 - 📫 How to reach me: **sankarshsanap@example.com**
 
 <h3 align="left">Connect with me:</h3>
