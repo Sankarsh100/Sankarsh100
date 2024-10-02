@@ -16,8 +16,8 @@
   - [Scheduler Project](https://github.com/username/scheduler-project) - An NLP-powered scheduler with custom Google Calendar functionalities.
   - [Healthcare Claims Analysis](https://github.com/username/claims-analysis) - Analysis of claims data based on ELIX diagnoses.
   
-- 📫 If you have any opportunities, please feel free to reach me at **sankarshsanap@example.com**
-- 📫 How to reach me: **sankarshsanap@example.com**
+- 📫 If you have any opportunities, please feel free to reach me at **sankarshsanap@gmail.com**
+- 📫 How to reach me: **sankarshsanap@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
