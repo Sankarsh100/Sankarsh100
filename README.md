@@ -1,5 +1,7 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sankarshsanap&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshsanap" /> 
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=Sankarsh100&label=Profile%20views&color=0e75b6&style=flat" alt="Sankarsh100" /> 
+
+
 </p>
 
 # Hi, I'm Sankarsh SANAP 👋
