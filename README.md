@@ -2,44 +2,33 @@
   <img height="600" src="https://camo.githubusercontent.com/6e6397aed26eb4fab8f2c57f52eaa579c90d1730be49af30c8980e9c60b7a77a/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e6769663f6669743d313032342532433537362673736c3d31"  />
 </div>
 
-###
 
 <br clear="both">
 
 <h1 align="center">Hi, I'm Sankarsh! 👋</h1>
-
-###
-
 <h3 align="center">Enthusiastic Visual Storyteller| Transforming Complex Data into Strategic Insights</h3>
 
-###
+<img align="right" height="300" src="https://camo.githubusercontent.com/33cc458902905188179c82f7854f88928c2b22b52ed8672106271ed25ff38628/68747470733a2f2f6d656469612e74656e6f722e636f6d2f695242377672766850523441414141692f646174612d636f64652e676966"  />
 
-<p align="left">👨🏽‍🎓 Graduate student at George Mason University with Major Data Analytics Engineering<br><br> 🚀 What I'm Up To:<br><br>🌱 Exploring cutting-edge technologies like DataBricks, Snowflake, and Cloud Computing and their Implications on Human Beings <br>📊 Passionate about turning data into actionable insights through **Python-powered ETL**, **Data Cleaning**, and **Advanced Analytics**  <br> 📚 Actively mastering **Cloud platforms** and **Big Data** tools to power up my data engineering skillset  <br>💡 Always eager to learn more about **Data Storytelling**, **Visualization**, and **Automation**</p>
+
+<p align="left">
+  👨🏽‍🎓 Graduate student at George Mason University with Major Data Analytics Engineering<br>
+  <br> 🚀 What I'm Up To:<br><br>-🌱 Exploring cutting-edge technologies like DataBricks, Snowflake, and Cloud Computing and their Implications on Human Beings <br>
+  -📊 Passionate about turning data into actionable insights through **Python-powered ETL**, **Data Cleaning**, and **Advanced Analytics**  <br> -📚 Actively mastering **Cloud platforms** and **Big Data** tools to power up my data engineering skillset  <br>-💡 Always eager to learn more about **Data Storytelling**, **Visualization**, and **Automation**</p>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="236" src="https://camo.githubusercontent.com/33cc458902905188179c82f7854f88928c2b22b52ed8672106271ed25ff38628/68747470733a2f2f6d656469612e74656e6f722e636f6d2f695242377672766850523441414141692f646174612d636f64652e676966"  />
-
-###
 
 <h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sankarsh100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sankarsh100/" height="50" width="60" /></a>
+<a href="https://www.instagram.com/sankarsh_sanap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankarsh_sanap" height="50" width="60" /></a>
+</p>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="40" alt="instagram logo"  />
-</div>
-
-###
 
 <h2 align="left">💻  Language and tools</h2>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="10" />
