@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://camo.githubusercontent.com/6e6397aed26eb4fab8f2c57f52eaa579c90d1730be49af30c8980e9c60b7a77a/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e6769663f6669743d313032342532433537362673736c3d31"  />
+  <img height="500" src="https://camo.githubusercontent.com/6e6397aed26eb4fab8f2c57f52eaa579c90d1730be49af30c8980e9c60b7a77a/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e6769663f6669743d313032342532433537362673736c3d31"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👨🏽‍🎓 Graduate student at George Mason University with Major Data Analytics Engineering<br> 🚀 What I'm Up To:<br><br>🌱 Exploring cutting-edge technologies like **DataBricks**, **Snowflake**, and **Cloud Computing** and their **Implications on Human Beings**  <br>📊 Passionate about turning data into actionable insights through **Python-powered ETL**, **Data Cleaning**, and **Advanced Analytics**  <br> 📚 Actively mastering **Cloud platforms** and **Big Data** tools to power up my data engineering skillset  <br>💡 Always eager to learn more about **Data Storytelling**, **Visualization**, and **Automation**</p>
+<p align="left">👨🏽‍🎓 Graduate student at George Mason University with Major Data Analytics Engineering<br><br> 🚀 What I'm Up To:<br><br>🌱 Exploring cutting-edge technologies like DataBricks, Snowflake, and Cloud Computing and their Implications on Human Beings <br>📊 Passionate about turning data into actionable insights through **Python-powered ETL**, **Data Cleaning**, and **Advanced Analytics**  <br> 📚 Actively mastering **Cloud platforms** and **Big Data** tools to power up my data engineering skillset  <br>💡 Always eager to learn more about **Data Storytelling**, **Visualization**, and **Automation**</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">💻  Language and tools</h3>
+<h2 align="left">💻  Language and tools</h2>
 
 ###
 
