@@ -12,11 +12,9 @@
 
 
 <p align="left">
-  👨🏽‍🎓 Graduate student at George Mason University with Major Data Analytics Engineering<br>
-  <br> 🚀 What I'm Up To:<br><br>-🌱 Exploring cutting-edge technologies like DataBricks, Snowflake, and Cloud Computing and their Implications on Human Beings <br>
-  -📊 Passionate about turning data into actionable insights through **Python-powered ETL**, **Data Cleaning**, and **Advanced Analytics**  <br> -📚 Actively mastering **Cloud platforms** and **Big Data** tools to power up my data engineering skillset  <br>-💡 Always eager to learn more about **Data Storytelling**, **Visualization**, and **Automation**</p>
 
-###
+
+
 
 <br clear="both">
 
